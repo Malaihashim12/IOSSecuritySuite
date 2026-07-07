@@ -311,6 +311,7 @@ Yes, please! If you have a better idea or you just want to improve this project,
 ## TODO
 
 * [ ] Research Installer5 and Zebra Package Manager detection ( Cydia Alternatives )
+* [ ] Dopamine hidejb detector
 
 ## License
 See the LICENSE file.
